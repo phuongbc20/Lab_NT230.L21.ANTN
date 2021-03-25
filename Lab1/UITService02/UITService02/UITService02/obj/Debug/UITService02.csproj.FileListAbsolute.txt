@@ -1,0 +1,8 @@
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe.config
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.pdb
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\obj\Debug\UITService02.ProjectInstaller.resources
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\obj\Debug\UITService02.csproj.GenerateResource.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\obj\Debug\UITService02.csproj.CoreCompileInputs.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\obj\Debug\UITService02.exe
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\obj\Debug\UITService02.pdb

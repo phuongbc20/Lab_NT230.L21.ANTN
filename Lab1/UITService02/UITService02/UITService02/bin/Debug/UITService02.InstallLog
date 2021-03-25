@@ -1,0 +1,64 @@
+﻿Installing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+Uninstalling assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+Uninstalling assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+Uninstalling assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService02\UITService02\UITService02\bin\Debug\UITService02.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.

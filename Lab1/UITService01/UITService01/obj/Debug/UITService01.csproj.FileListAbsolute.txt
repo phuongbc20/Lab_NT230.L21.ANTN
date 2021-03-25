@@ -1,0 +1,17 @@
+E:\Drive\Học Tập\Học kỳ 6\Cơ chế hoạt động của mã độc\Thực Hành\Lab1\UITService01\UITService01\bin\Debug\UITService01.exe.config
+E:\Drive\Học Tập\Học kỳ 6\Cơ chế hoạt động của mã độc\Thực Hành\Lab1\UITService01\UITService01\bin\Debug\UITService01.exe
+E:\Drive\Học Tập\Học kỳ 6\Cơ chế hoạt động của mã độc\Thực Hành\Lab1\UITService01\UITService01\bin\Debug\UITService01.pdb
+E:\Drive\Học Tập\Học kỳ 6\Cơ chế hoạt động của mã độc\Thực Hành\Lab1\UITService01\UITService01\obj\Debug\UITService01.csprojAssemblyReference.cache
+E:\Drive\Học Tập\Học kỳ 6\Cơ chế hoạt động của mã độc\Thực Hành\Lab1\UITService01\UITService01\obj\Debug\UITService01.ProjectInstaller.resources
+E:\Drive\Học Tập\Học kỳ 6\Cơ chế hoạt động của mã độc\Thực Hành\Lab1\UITService01\UITService01\obj\Debug\UITService01.csproj.GenerateResource.cache
+E:\Drive\Học Tập\Học kỳ 6\Cơ chế hoạt động của mã độc\Thực Hành\Lab1\UITService01\UITService01\obj\Debug\UITService01.csproj.CoreCompileInputs.cache
+E:\Drive\Học Tập\Học kỳ 6\Cơ chế hoạt động của mã độc\Thực Hành\Lab1\UITService01\UITService01\obj\Debug\UITService01.exe
+E:\Drive\Học Tập\Học kỳ 6\Cơ chế hoạt động của mã độc\Thực Hành\Lab1\UITService01\UITService01\obj\Debug\UITService01.pdb
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService01\UITService01\bin\Debug\UITService01.exe.config
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService01\UITService01\bin\Debug\UITService01.exe
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService01\UITService01\bin\Debug\UITService01.pdb
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService01\UITService01\obj\Debug\UITService01.ProjectInstaller.resources
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService01\UITService01\obj\Debug\UITService01.csproj.GenerateResource.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService01\UITService01\obj\Debug\UITService01.csproj.CoreCompileInputs.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService01\UITService01\obj\Debug\UITService01.exe
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService01\UITService01\obj\Debug\UITService01.pdb
