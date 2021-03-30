@@ -6,4 +6,3 @@ E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService03\UITService03\o
 E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService03\UITService03\obj\Debug\UITService03.csproj.CoreCompileInputs.cache
 E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService03\UITService03\obj\Debug\UITService03.exe
 E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService03\UITService03\obj\Debug\UITService03.pdb
-E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab1\UITService03\UITService03\obj\Debug\UITService03.csprojAssemblyReference.cache

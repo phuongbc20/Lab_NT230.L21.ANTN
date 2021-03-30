@@ -1,0 +1,194 @@
+check OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ncat 192.168.91.11 8888
+
+C:\WINDOWS\system32>
+check OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::155f:79e8:e244:e8e6%9
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::f88a:6107:7b2f:f1f0%15
+   IPv4 Address. . . . . . . . . . . : 192.168.189.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::90a5:d21e:ee33:e1c9%23
+   IPv4 Address. . . . . . . . . . . : 192.168.91.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::4d06:571a:661a:399e%21
+   IPv4 Address. . . . . . . . . . . : 192.168.1.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::44e3:6943:875e:5976%12
+   IPv4 Address. . . . . . . . . . . : 172.16.2.231
+   Subnet Mask . . . . . . . . . . . : 255.255.252.0
+   Default Gateway . . . . . . . . . : 172.16.0.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+C:\WINDOWS\system32>
+check OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ncat 192.168.91.11 8888
+
+C:\WINDOWS\system32>
+C:\WINDOWS\system32>
+check OK
+check OK
+check OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ncat 192.168.91.11 8888
+
+C:\WINDOWS\system32>
+check OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ncat 192.168.91.11 8888
+
+C:\WINDOWS\system32>
+check OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ncat 192.168.91.11 8888
+
+C:\WINDOWS\system32>
+check OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ncat 192.168.91.11 80
+
+C:\WINDOWS\system32>
+check OK
+check OK
+check OK
+check OK
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+check OK
+Hello
+checkkk OK
+Microsoft Windows [Version 10.0.18363.1440]
+checkkk OK
+Microsoft Windows [Version 10.0.18363.1440]
+checkkk OK
+Microsoft Windows [Version 10.0.18363.1440]
+checkkk OK
+Microsoft Windows [Version 10.0.18363.1440]
+checkkk OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ncat -nlvp 8888
+
+C:\WINDOWS\system32>
+checkkk OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ncat -nlvp 8888
+
+C:\WINDOWS\system32>
+checkkk OK
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ncat -nlvp 8888
+
+C:\WINDOWS\system32>
+checkkk OK
+checkkk OK
+Helloafsd
+checkkk OK
+Helloafsd
+checkkk OK
+checkkk OK
+checkkk OK
