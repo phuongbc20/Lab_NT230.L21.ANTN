@@ -1,0 +1,9 @@
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\obj\Debug\Cau4.csprojAssemblyReference.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\obj\Debug\Cau4.ProjectInstaller.resources
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\obj\Debug\Cau4.csproj.GenerateResource.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\obj\Debug\Cau4.csproj.CoreCompileInputs.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe.config
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.pdb
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\obj\Debug\Cau4.exe
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\obj\Debug\Cau4.pdb

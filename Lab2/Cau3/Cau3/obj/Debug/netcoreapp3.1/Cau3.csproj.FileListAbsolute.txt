@@ -1,0 +1,13 @@
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\bin\Debug\netcoreapp3.1\Cau3.exe
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\bin\Debug\netcoreapp3.1\Cau3.deps.json
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\bin\Debug\netcoreapp3.1\Cau3.runtimeconfig.json
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\bin\Debug\netcoreapp3.1\Cau3.runtimeconfig.dev.json
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\bin\Debug\netcoreapp3.1\Cau3.dll
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\bin\Debug\netcoreapp3.1\Cau3.pdb
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\obj\Debug\netcoreapp3.1\Cau3.AssemblyInfoInputs.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\obj\Debug\netcoreapp3.1\Cau3.AssemblyInfo.cs
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\obj\Debug\netcoreapp3.1\Cau3.csproj.CoreCompileInputs.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\obj\Debug\netcoreapp3.1\Cau3.dll
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\obj\Debug\netcoreapp3.1\Cau3.pdb
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\obj\Debug\netcoreapp3.1\Cau3.genruntimeconfig.cache
+E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau3\Cau3\obj\Debug\netcoreapp3.1\Cau3.csprojAssemblyReference.cache

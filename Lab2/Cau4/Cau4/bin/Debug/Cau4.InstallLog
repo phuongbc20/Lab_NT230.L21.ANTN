@@ -1,0 +1,34 @@
+﻿Installing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe
+Installing service UITLogin...
+Service UITLogin has been successfully installed.
+Creating EventLog source UITLogin in log Application...
+Committing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe
+Uninstalling assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe
+Removing EventLog source UITLogin.
+Service UITLogin is being removed from the system...
+Service UITLogin was successfully removed from the system.
+Installing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe
+Installing service UITLogin...
+Service UITLogin has been successfully installed.
+Creating EventLog source UITLogin in log Application...
+Committing assembly 'E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.InstallLog
+   assemblypath = E:\Drive\Learning\HK6\CoCheHoatDongCuaMaDoc\Lab\Lab2\Cau4\Cau4\bin\Debug\Cau4.exe
